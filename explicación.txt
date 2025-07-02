@@ -1,2 +1,0 @@
-ESCRIBIR UN EJEMPLO BASE DE CADA HERRAMIENTA. UN HOLA MUNDO. UN HOME PAGE, CON LIVEWIRE. 
-Micrositio de una compañía, un párrafo de bienvenida, 3 o 4 frases comerciales, una foto, info de contacto :D
